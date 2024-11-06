@@ -11,6 +11,6 @@
 - TailwindCSS
 
 ## How to running
-- create .env file
+- replace .env.example file to .env
 - pnpm install
 - pnpm run dev
